@@ -1,6 +1,9 @@
 # Genus Comparisons in the Topological Analysis of RNA Structures
+
 Supplementary material from "Genus Comparisons in the Topological Analysis of RNA Structures"
+
 Preprint available at: https://arxiv.org/abs/2304.07273
+
 
 Columns in the "final_dataset_for_publication_curated_bib.tab" file:
 
